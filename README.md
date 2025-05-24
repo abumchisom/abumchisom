@@ -2,7 +2,7 @@
 
 **Cyber Security (SOC & CTI) Analyst | OSINT analyst**
 
-I help organizations in detecting threats using SOC solutions, build detection pipelines with AWS-native tools, and automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
+I help organizations in detecting threats using SOC and Threat Intelligence solutions.
 
 ---
 
