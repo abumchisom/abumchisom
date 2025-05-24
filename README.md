@@ -8,8 +8,8 @@ I help organizations in detecting threats using SOC solutions, build detection p
 
 ##  Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-@techboy150-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abumchisom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephchisom)
+[![X (Twitter)](https://img.shields.io/badge/x-%40abumchisom)](https://twitter.com/abumchisom)
+[![LinkedIn](https://img.shields.io/badge/linkedin-joseph%20chisom)](https://www.linkedin.com/in/josephchisom)
 
 ---
 
