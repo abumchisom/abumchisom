@@ -15,7 +15,7 @@ I help organizations in detecting threats using SOC and Threat Intelligence solu
 
 ## About Me
 
-I'm currently a 200 level student of Computer Science, advancing a career in cybersecurity, while still being a Technical Writer.
+I'm currently a 200-level student of Computer Science, advancing a career in cybersecurity, while still being a Technical Writer.
 
 My current work revolves around **setting up SIEM solutions to monitor and defend threats. Additionally, I combine OSINT skills as a CTI analyst to find cues that may be of harm to organizations**. 
 
@@ -24,10 +24,10 @@ As a SOC Analyst, I set up tools to observe aggregated logs, which inform me on 
 Tools I use often include: 
 **Graylog:** for aggregating logs from different devices.
 **Wireshark:** for analysing network packets
-**Spiderfoot:** for running reconnainse on points of interest
+**Spiderfoot:** for running reconnaissance on points of interest
 
 7u
-I frequently share my work online to show educate my audience on what I do.
+I frequently share my work online to educate my audience on what I do.
 
 ---
 
@@ -35,7 +35,7 @@ I frequently share my work online to show educate my audience on what I do.
 
 | Skill Area                                 | Projects                                                                                  |
 |--------------------------------------------|-------------------------------------------------------------------------------------------|
-| Cloud Based SIEM                           |Graylog SIEM running on an AWS instance for constant uptime and easy upscale               |
+| Cloud-Based SIEM                           |Graylog SIEM running on an AWS instance for constant uptime and easy scale-up               |
 | OSINT Geolocation                          |Geolocated Different locations using a cues & different OSINT techniques                   |
 | SOC Triaging                               | TryHackMe Real Time SOC Environment Simulation                                            |
 
@@ -44,14 +44,14 @@ I frequently share my work online to show educate my audience on what I do.
 ## Projects (Active and Upcoming)
 
 ### Active
-- **Cloud Based SIEM on AWS EC2** - Spinned up a SIEM using Graylog to coallate logs from different endpoints. An ongoing project, with more refinements to be added.
-- **SOC Triaging** – Participated in a 2-hour Real time SOC Simulation project and achieved over 90% true positive detection twice.  
+- **Cloud-Based SIEM on AWS EC2** - Spinned up a SIEM using Graylog to collect logs from different endpoints. An ongoing project, with more refinements to be added.
+- **SOC Triaging** – Participated in a 2-hour real-time SOC Simulation project and achieved over 90% true positive detection twice.  
 - **OSINT GEOLOCATION** – Using OSINT Technologies, and few cues, I traced different locations, each time, finding where they are located.
-- **Tracking a Fugitive** – Used Digital footprints to find informations about a person's past. 
+- **Tracking a Fugitive** – Used Digital footprints to find pieces of information about a person's online activities. 
 
 ### Upcoming
 - **Real Time Threat Isolation on Graylog** – Use SOAR tools to automate incident response
-- **Cloud Security Monitoring** – Implement tools like GuardDuty to monitor for security breahces  
+- **Cloud Security Monitoring** – Implement tools like GuardDuty to monitor for security breaches  
 - **Threat Intelligence** – Enrich Graylog with Threat Intel tools to detect and flag known malicious IPs and files running on its clients.
   
 
