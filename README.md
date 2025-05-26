@@ -17,7 +17,7 @@ I help organizations in detecting threats using SOC and Threat Intelligence solu
 
 I'm currently a 200-level student of Computer Science, advancing a career in cybersecurity, while still being a Technical Writer.
 
-My current work revolves around **setting up SIEM solutions to monitor and defend threats. Additionally, I combine OSINT skills as a CTI analyst to find cues that may be of harm to organizations**. 
+My current work revolves around **setting up SIEM solutions to monitor and defend against threats. Additionally, I combine OSINT skills as a CTI analyst to find cues that may be harmful to organizations**. 
 
 As a SOC Analyst, I set up tools to observe aggregated logs, which inform me on how best to respond to them. From a CTI standpoint, I also use monitoring tools to find potential threats, investigate them, and report to the relevant stakeholders.
 
@@ -35,7 +35,7 @@ I frequently share my work online to educate my audience on what I do.
 
 | Skill Area                                 | Projects                                                                                  |
 |--------------------------------------------|-------------------------------------------------------------------------------------------|
-| Cloud-Based SIEM                           |Graylog SIEM running on an AWS instance for constant uptime and easy scale-up               |
+| Cloud-Based SIEM                           |Graylog SIEM running on an AWS instance for constant uptime and easy scale-up              |
 | OSINT Geolocation                          |Geolocated Different locations using a cues & different OSINT techniques                   |
 | SOC Triaging                               | TryHackMe Real Time SOC Environment Simulation                                            |
 
@@ -46,7 +46,7 @@ I frequently share my work online to educate my audience on what I do.
 ### Active
 - **Cloud-Based SIEM on AWS EC2** - Spinned up a SIEM using Graylog to collect logs from different endpoints. An ongoing project, with more refinements to be added.
 - **SOC Triaging** – Participated in a 2-hour real-time SOC Simulation project and achieved over 90% true positive detection twice.  
-- **OSINT GEOLOCATION** – Using OSINT Technologies, and few cues, I traced different locations, each time, finding where they are located.
+- **OSINT GEOLOCATION** – Using OSINT Technologies and a few cues, I traced different locations, each time, finding where they are located.
 - **Tracking a Fugitive** – Used Digital footprints to find pieces of information about a person's online activities. 
 
 ### Upcoming
@@ -59,19 +59,13 @@ I frequently share my work online to educate my audience on what I do.
 
 ## Tools & Platforms
 
-### AWS Cloud (Primary Focus)
+### Network, SIEM, and Platform
 
 <div>
   <img src="https://img.shields.io/badge/AWS-orange" />
   <img src="https://img.shields.io/badge/Wireshark-blue" />
   <img src="https://img.shields.io/badge/Virus%20Total-blue"/>
   <img src="https://img.shields.io/badge/python3%20actively%20learning-yellow" />
-
-
- 
-### 🛰 Network + SIEM
-
-<div>
   <img src="https://img.shields.io/badge/Graylog-%23FF3633?"/>
  
 
@@ -98,7 +92,7 @@ I constantly share blogs and posts on what I know, and my journey on my [Hashnod
 
 I'm actively looking for opportunities as a **Cybersecurity SOC/CTI Analyst** — contract, full-time, or internships.
 
-If you're building a team in any of these fields, and need someone with knowledge and experience in it, I'll be glad to work with you.
+If you're building a team in any of these fields and need someone with knowledge and experience in it, I'll be glad to work with you.
 
 📧 **Reach me via [Mail:](mailto:ofonagorochisom81@gmail.com)**  
 💬 Reach me on [𝕏](https://x.com/abumchisom) or connect on [LinkedIn](https://www.linkedin.com/in/josephchisom)
