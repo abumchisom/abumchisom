@@ -36,8 +36,7 @@ I frequently share my work online to educate my audience on what I do.
 
 | Skill Area                                 | Projects                                                                                  |
 |--------------------------------------------|-------------------------------------------------------------------------------------------|
-| Wazuh SIEM & XDR                           |A comprehensive security tool used by enterprise environments to stay safer with enriched  |
-|threat detection & response.                                                               
+| Wazuh SIEM & XDR                           |A comprehensive security tool used by enterprise environments to stay safer with enriched threat detection & response. |                                                              
 | Cloud-Based SIEM                           |Graylog SIEM running on an AWS instance for constant uptime and easy scale-up              |
 | OSINT Geolocation                          |Geolocated Different locations using a cues & different OSINT techniques                   |
 | SOC Triaging                               | TryHackMe Real Time SOC Environment Simulation                                            |
