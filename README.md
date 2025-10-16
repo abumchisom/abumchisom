@@ -4,6 +4,8 @@
 
 I help organizations in detecting threats using SOC and Threat Intelligence solutions.
 
+<...! I help organizations strengthen their defenses by leveraging Threat Intelligence and Security Operations (SOC) tools like Wazuh and OSINT frameworks.
+My work focuses on transforming raw threat data into actionable insights that help businesses stay secure. ..>
 ---
 
 ##  Connect with Me
