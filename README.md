@@ -15,7 +15,7 @@ I help organizations in detecting threats using SOC and Threat Intelligence solu
 
 ## About Me
 
-I'm currently a 200-level student of Computer Science, advancing a career in cybersecurity, while still being a Technical Writer.
+I'm currently a 300-level student of Computer Science in an Open, Distant Learning Institution, advancing a career in cybersecurity, while still being a Technical Writer.
 
 My current work revolves around **setting up SIEM solutions to monitor and defend against threats. Additionally, I combine OSINT skills as a CTI analyst to find cues that may be harmful to organizations**. 
 
@@ -91,6 +91,7 @@ No major project at the moment.
 
 I constantly share blogs and posts on what I know, and my journey on my [Hashnode blog](https://chisom.hashnode.dev), my [X page](https://x.com/abumchisom), and [LinkedIn page](https://linkedin.com/in/josephchisom)
 
+I also contribute as a freelance contract tech journalist to [TechRepublic](https://www.techrepublic.com/meet-the-team/us/joseph-ofonagoro/) and [eWeek.](https://www.eweek.com/author/joseph-chisom-ofonagoro/)
  
 
 ---
