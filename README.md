@@ -53,11 +53,11 @@ I frequently share my work online to educate my audience on what I do.
 ### Active
 Below is a list of major projects I have embarked on so far:
 
+- **Setting up an XDR/SIEM tool with Wazuh:** Utilized Google Cloud Platform to create a Wazuh server with consistent uptime so logs could come in from both my Windows and Linux endpoints.
 - **Cloud-Based SIEM on AWS EC2** - Spinned up a SIEM using Graylog to collect logs from different endpoints. An ongoing project, with more refinements to be added.
 - **SOC Triaging** – Participated in a 2-hour real-time SOC Simulation project and achieved over 90% true positive detection twice.  
 - **OSINT GEOLOCATION** – Using OSINT Technologies and a few cues, I traced different locations, each time, finding where they are located.
 - **Tracking a Fugitive** – Used Digital footprints to find pieces of information about a person's online activities.
-- **Setting up an XDR/SIEM tool with Wazuh:** Utilized Google Cloud Platform to create a Wazuh server with consistent uptime so logs could come in from both my Windows and Linux endpoints.
 - **Real Time Malicious File detection and isolation on Wazuh** – Use the built-in File Integrity Module and integration with VirusTotal to detect changes made to folders and files while instantaneously sending file info to VT for malware check, and acting based on VT's response.
 - **Email Alerts:** - Used an email sending relay to communicate critical detected threats from the Wazuh manager to email box for quick actions by humans.
 
