@@ -15,16 +15,21 @@ I help organizations in detecting threats using SOC and Threat Intelligence solu
 
 ## About Me
 
-I'm currently a 300-level student of Computer Science in an Open, Distant Learning Institution, advancing a career in cybersecurity, while still being a Technical Writer.
+I’m Joseph — a tech journalist and a cybersecurity operator building silent shields for early-stage founders.
 
-My current work revolves around **setting up SIEM solutions to monitor and defend against threats. Additionally, I combine OSINT skills as a CTI analyst to find cues that may be harmful to organizations**. 
+I don’t wait for attacks to happen. I hunt for vulnerabilities before they’re exploited. 
 
-As a SOC Analyst, I set up tools to observe aggregated logs, which inform me on how best to respond to them. From a CTI standpoint, I also use monitoring tools to find potential threats, investigate them, and report to the relevant stakeholders.
+Last year, I built a full Wazuh-based monitoring system to detect real-time threats — now I use it to help startups plug critical gaps in under 72 hours.
+
+Most early-stage teams think they’re secure because they have a developer. But a dev builds products, not defenses. 
+I run targeted security pulse checks so founders know their exposure and fix it before the worst happens.
+
+If you’re building something real and want to avoid the cyber disaster no one talks about — let’s connect.
 
 Tools I use often include: 
 **Wazuh:** my favorite SIEM tool, used to detect threats on devices and cloud servers, and respond to these threats via its active response feature in real time.
 **Graylog:** for aggregating logs from different devices.
-**Wireshark:** for analysing network packets
+**Wireshark:** for analyzing network packets
 **Spiderfoot:** for running reconnaissance on points of interest
 
 
@@ -91,16 +96,14 @@ No major project at the moment.
 
 I constantly share blogs and posts on what I know, and my journey on my [Hashnode blog](https://chisom.hashnode.dev), my [X page](https://x.com/abumchisom), and [LinkedIn page](https://linkedin.com/in/josephchisom)
 
-I also contribute as a freelance contract tech journalist to [TechRepublic](https://www.techrepublic.com/meet-the-team/us/joseph-ofonagoro/) and [eWeek.](https://www.eweek.com/author/joseph-chisom-ofonagoro/)
+I also contribute as a tech journalist to [TechRepublic](https://www.techrepublic.com/meet-the-team/us/joseph-ofonagoro/) and [eWeek.](https://www.eweek.com/author/joseph-chisom-ofonagoro/)
  
 
 ---
 
 ## Open to Work
 
-I'm actively looking for opportunities as a **Cybersecurity SOC/CTI Analyst** — contract, full-time, or internships.
-
-If you're building a team in any of these fields and need someone with knowledge and experience in it, I'll be glad to work with you.
+I am open to working with startups that are done with treating security as a side project and are ready to grow with it, one stage at a time.
 
 📧 **Reach me via [Mail:](mailto:ofonagorochisom81@gmail.com)**  
 💬 Reach me on [𝕏](https://x.com/abumchisom) or connect on [LinkedIn](https://www.linkedin.com/in/josephchisom)
